@@ -1,4 +1,4 @@
-a-python-webapp
+awesome-python-webapp
 =====================
 
-A python web-app practice.
+A python webapp tutorial.
